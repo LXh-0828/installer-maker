@@ -5,10 +5,10 @@
 ## 下载
 
 - **GitHub 直接下载（国外推荐）**：
-  https://github.com/LXh-0828/nstaller-maker/releases/download/v1.0.0/installer-maker.exe
+  https://github.com/LXh-0828/installer-maker/releases/download/v1.0.0/installer-maker.exe
 
 - **国内加速下载（推荐）**：
-  https://githubproxy.cc/https://github.com/LXh-0828/nstaller-maker/releases/download/v1.0.0/installer-maker.exe
+  https://githubproxy.cc/https://github.com/LXh-0828/installer-maker/releases/download/v1.0.0/installer-maker.exe
 
 ## 使用方法
 
