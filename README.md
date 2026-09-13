@@ -1,4 +1,4 @@
-# nstaller-maker
+# installer-maker
 
 把一个已经能跑的 exe 文件夹，变成一个中文安装包。
 
