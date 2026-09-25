@@ -9,6 +9,12 @@
 3. 按界面提示操作即可
 
 ## 下载
+v3.0.0
+- **GitHub 直接下载（国外推荐）**：
+  https://github.com/LXh-0828/installer-maker/releases/download/v3.0.0/installer-maker.exe
+
+- **国内加速下载（推荐）**：
+  https://githubproxy.cc/https://github.com/LXh-0828/installer-maker/releases/download/v3.0.0/installer-maker.exe
 
 v2.0.0
 - **GitHub 直接下载（国外推荐）**：
