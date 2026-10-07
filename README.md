@@ -11,6 +11,13 @@
 ## 下载
 v3.0.0
 - **国内加速下载（推荐）**：
+  https://githubproxy.cc/https://github.com/LXh-0828/installer-maker/releases/download/v4.0.0/installer-maker.exe
+  
+- **GitHub 直接下载（国外推荐）**：
+  https://github.com/LXh-0828/installer-maker/releases/download/v4.0.0/installer-maker.exe
+
+v3.0.0
+- **国内加速下载（推荐）**：
   https://githubproxy.cc/https://github.com/LXh-0828/installer-maker/releases/download/v3.0.0/installer-maker.exe
   
 - **GitHub 直接下载（国外推荐）**：
